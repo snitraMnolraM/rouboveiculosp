@@ -29,7 +29,6 @@
 Esse projeto foi desenvolvido com as tecnologias:
 
 - Python
-
   - numpy == 1.21.2
   - streamlit == 1.3.1
   - pandas == 1.3.5
