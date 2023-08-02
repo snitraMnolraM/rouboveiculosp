@@ -105,7 +105,7 @@ if pagina == 'Dados e Gráficos':
     with col1 :
         
         df3 = dados['PERIODO DA OCORRENCIA'].value_counts()
-        fig = px.bar(df3, y=['PERIODO DA OCORRENCIA'], title=" Período da Ocorrência ")
+        fig = px.bar(df3, x=['PERIODO DA OCORRENCIA'], title=" Período da Ocorrência ")
         st.write(fig, use_container_width=False, sharing='streamlit')
 
 
