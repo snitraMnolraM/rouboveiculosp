@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido com as tecnologias:
 
 
 
-[Clique aqui para visualizar o APP](https://roubodeveiculosemsp.herokuapp.com/)
+[Clique aqui para visualizar o APP](https://rouboveiculosp-7wmapp4lzt86wjpiynysjvr.streamlit.app/)
 
 
 
