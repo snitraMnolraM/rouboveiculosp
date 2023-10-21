@@ -17,7 +17,7 @@ st.image('dados/banner.jpg', use_column_width= 'always')
 
 st.header ( 'Roubo de Veículos no Estado de São Paulo ' )
 
-paginas = ['Metodologia','Dados e Gráficos', 'Mapas' ]
+paginas = ['Dados e Gráficos', 'Mapas','Metodologia' ]
 
 pagina = st.sidebar.selectbox('Selecione a Página  que você deseja', paginas)
 
